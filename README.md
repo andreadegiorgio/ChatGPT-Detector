@@ -1,6 +1,6 @@
 # ChatGPT-Detector
 
-## Please cite this work:
+## Please cite and use this work as reference:
 A. de Giorgio and A. Maffei, **"ChatGPT-Detector: How to unmask artificial intelligence writing your students' exam essays"**, in publication, 2023, [doi: N/A](https://doi.org/N/A).
 
 # Instructions
