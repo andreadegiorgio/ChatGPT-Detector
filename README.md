@@ -23,7 +23,7 @@ In order to reproduce the results from our research article:
 
 The file can be edited to import results from a different dataset.
 
-## One-Class ChatGPT-Detector with Random Forest (RF)
+## One-Class ChatGPT-Detector with random forest (RF)
 
 1. Import all the files from this repository in the same folder and make sure to unzip the three .zip files with the dataset.
 2. Check that all the libraries imported from the file "chatGPT_detector_multi_class.py" are installed.
